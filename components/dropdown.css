@@ -1,0 +1,31 @@
+#newConversation {
+    background-color: #794DF5;
+    width: 48px;
+    height: 48px;
+    margin-right: 15px;
+    border-radius: 60%;
+    float: right;
+    top: auto;
+    bottom: 100%;
+  }
+
+  #new_convo_list{
+    background-color: white;
+    top: auto;
+    bottom: 100%;
+  }
+
+  .dd-list-item {
+    top: auto;
+    bottom: 100%;
+  }
+
+  .dd-show {
+    width: 100px;
+    top: auto;
+    bottom: 100%;
+  }
+
+  .dd-logo {
+    margin-right: 50px;
+  }
